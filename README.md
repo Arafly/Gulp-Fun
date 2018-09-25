@@ -1,2 +1,2 @@
-#GulpAPP
-A very simple task running exercises with Gulp.js and a few plugins
+#   GulpAPP
+A very simple task running exercise with Gulp.js and a few plugin
